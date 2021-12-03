@@ -1,0 +1,9 @@
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\bin\Debug\TwilioRegs.exe.config
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\bin\Debug\countries.json
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\bin\Debug\TwilioRegs.exe
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\bin\Debug\TwilioRegs.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\bin\Debug\Newtonsoft.Json.dll
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\bin\Debug\Newtonsoft.Json.xml
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\obj\Debug\TwilioRegs.csprojResolveAssemblyReference.cache
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\obj\Debug\TwilioRegs.exe
+c:\users\fiach\documents\visual studio 2013\Projects\TwilioRegs\obj\Debug\TwilioRegs.pdb
